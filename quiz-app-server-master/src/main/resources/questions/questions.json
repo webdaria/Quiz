@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Which of these is another name for a golf course?",
+    "A": "Pitch",
+    "B": "Links",
+    "C": "Steps",
+    "D": "Suite",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these is commonly used to treat allergies?",
+    "A": "antimatter",
+    "B": "anticoagulants",
+    "C": "antiseptics",
+    "D": "antihistamines",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these is made from cacao seeds?",
+    "A": "marzipan",
+    "B": "soy sauce",
+    "C": "chocolate",
+    "D": "anchovies",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these is not a breed of cat?",
+    "A": "Persian",
+    "B": "Turkish Angora",
+    "C": "Bichon Frise",
+    "D": "Maine Coon",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these is not a city in the state of New York?",
+    "A": "Perskippity",
+    "B": "Kerhonkson",
+    "C": "Schenectady",
+    "D": "Lackawanna",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these is not a fabric?",
+    "A": "Velveteen",
+    "B": "Celotex",
+    "C": "Seersucker",
+    "D": "Tencel",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these is not a Hindu deity?",
+    "A": "Shiva",
+    "B": "Vishnu",
+    "C": "Sanskrit",
+    "D": "Brahma",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these is not a 'lock' function on a standard desktop computer keyboard?",
+    "A": "print lock",
+    "B": "number lock",
+    "C": "scroll lock",
+    "D": "caps lock",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these is not a position on an American football team?",
+    "A": "quarterback",
+    "B": "tight end",
+    "C": "striker",
+    "D": "free safety",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these is not a spice?",
+    "A": "dill",
+    "B": "aniseed",
+    "C": "cucumber",
+    "D": "cayenne",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these is not a style of shoe?",
+    "A": "gingham",
+    "B": "brogan",
+    "C": "espadrille",
+    "D": "docksider",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these is not a traditional Greek dish?",
+    "A": "sukiyaki",
+    "B": "souvlaki",
+    "C": "moussaka",
+    "D": "finikia",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these is not a type of chili pepper?",
+    "A": "habanero",
+    "B": "cheyenne",
+    "C": "jalapeno",
+    "D": "guajillo",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these is not a type of primate?",
+    "A": "baboon",
+    "B": "marmot",
+    "C": "orangutan",
+    "D": "chimpanzee",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these is not a type of rock?",
+    "A": "metamorphic",
+    "B": "sedimentary",
+    "C": "igneous",
+    "D": "deciduous",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these is not an ingredient in Yorkshire pudding?",
+    "A": "eggs",
+    "B": "milk",
+    "C": "chocolate",
+    "D": "meat drippings",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these is not found in a Snickers candy bar?",
+    "A": "almonds",
+    "B": "chocolate",
+    "C": "nougat",
+    "D": "caramel",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these is not one of Aesop's fables?",
+    "A": "'The Dog and the Squirrel'",
+    "B": "'The Hare and the Tortoise'",
+    "C": "'The Eagle and the Beetle'",
+    "D": "'The Ox and the Frogs'",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these is not one of superhero Captain Marvel's abilities?",
+    "A": "the power of Apollo",
+    "B": "the strength of Hercules",
+    "C": "the courage of Achilles",
+    "D": "the wisdom of Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these is not one of the four basic forces in nature?",
+    "A": "electromagnetic",
+    "B": "gravitational",
+    "C": "nuclear",
+    "D": "centrifugal",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these is not one of the official languages of the United Nations?",
+    "A": "Japanese",
+    "B": "English",
+    "C": "Russian",
+    "D": "Spanish",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these is not one of the three branches of the US government?",
+    "A": "Judicial",
+    "B": "Executive",
+    "C": "Parliamentary",
+    "D": "Legislative",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these is not the name of one of rock musician Frank Zappa's children?",
+    "A": "Dweezil",
+    "B": "Ahmet",
+    "C": "Moon Unit",
+    "D": "Lumpy Gravy",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these is referred to as a 'pigskin'?",
+    "A": "Football",
+    "B": "Basketball",
+    "C": "hockey puck",
+    "D": "catcher's Mitt",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these is typically not used as a spice?",
+    "A": "dill",
+    "B": "thyme",
+    "C": "hemlock",
+    "D": "marjoram",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these items is useful for removing ink stains?",
+    "A": "baking soda",
+    "B": "nail polish",
+    "C": "hair spray",
+    "D": "butter",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these measurements is equal to one square foot?",
+    "A": "50 square inches",
+    "B": "77 square inches",
+    "C": "100 square inches",
+    "D": "144 square inches",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these magazines does not focus on natural science?",
+    "A": "Tiger Beat",
+    "B": "Outside",
+    "C": "National Geographic",
+    "D": "Smithsonian",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these men has never been a head coach in the NFL?",
+    "A": "Dick Vermeil",
+    "B": "Bill Parcells",
+    "C": "Chuck Noll",
+    "D": "Pat Riley",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these months has 31 days?",
+    "A": "March",
+    "B": "April",
+    "C": "June",
+    "D": "September",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these movies does not star Jim Carrey?",
+    "A": "'Patch Adams'",
+    "B": "'The Truman Show'",
+    "C": "'Dumb and Dumber'",
+    "D": "'The Mask'",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these names has never belonged to a Pope?",
+    "A": "Leo",
+    "B": "Lando",
+    "C": "Linus",
+    "D": "Lawrence",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these organizations is not part of the U.S. government?",
+    "A": "NAACP",
+    "B": "NASA",
+    "C": "CIA",
+    "D": "FBI",
+    "answer": "A"
+  },
+  {
+    "question": "Which of these organs comes in a pair?",
+    "A": "liver",
+    "B": "kidney",
+    "C": "stomach",
+    "D": "gallbladder",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these painting tools has bristles on it?",
+    "A": "easel",
+    "B": "knife",
+    "C": "brush",
+    "D": "palette",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these pastas is spiral shaped?",
+    "A": "fettuccine",
+    "B": "rigatoni",
+    "C": "tortellini",
+    "D": "rotini",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these people was buried in the Valley of the Kings?",
+    "A": "Louis XIV",
+    "B": "Elvis Presley",
+    "C": "Julius Caesar",
+    "D": "King Tut",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these people was not alive in the 20th century?",
+    "A": "Mark Twain",
+    "B": "Thomas Edison",
+    "C": "Sigmund Freud",
+    "D": "Ulysses S. Grant",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these performers made her film debut in Spike Lee's 'Do the Right Thing'?",
+    "A": "Jennifer Lopez",
+    "B": "Rosie Perez",
+    "C": "Paula Abdul",
+    "D": "Tisha Campbell",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these places is known for art auctions?",
+    "A": "Shelby's",
+    "B": "Nickleby's",
+    "C": "Gatsby's",
+    "D": "Sotheby's",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these plants is the national emblem of Scotland?",
+    "A": "ivy",
+    "B": "thistle",
+    "C": "rose",
+    "D": "linden",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these popular games relies on bluffing?",
+    "A": "Outburst",
+    "B": "Balderdash",
+    "C": "Pictionary",
+    "D": "Scattergories",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these refers to an alcoholic drink laced with a knockout drug?",
+    "A": "Zombie",
+    "B": "Kamikaze",
+    "C": "Mickey Finn",
+    "D": "Molotov cocktail",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these rivers flows through France?",
+    "A": "Volga",
+    "B": "Seine",
+    "C": "Mekong",
+    "D": "Allegheny",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these rock guitarists designed a colorful line of men's neckties?",
+    "A": "Eric Clapton",
+    "B": "Jerry Garcia",
+    "C": "Jeff Beck",
+    "D": "Keith Richards",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these rocks will float in water?",
+    "A": "granite",
+    "B": "limestone",
+    "C": "shale",
+    "D": "pumice",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these sentences is written in the subjunctive?",
+    "A": "I am not your man",
+    "B": "I wish I were your man",
+    "C": "Wherefore art your man?",
+    "D": "Your man is where?",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these snakes is poisonous?",
+    "A": "anaconda",
+    "B": "boa constrictor",
+    "C": "copperhead",
+    "D": "python",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these songs was a Top 10 hit for the rock band The Police?",
+    "A": "'Radio Ga-Ga'",
+    "B": "'Ob-la-di, Ob-la-da'",
+    "C": "'De Do Do Do, De Da Da Da'",
+    "D": "'In-a-Gadda-Da-Vida'",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these sounds is commonly associated with owls?",
+    "A": "chirp",
+    "B": "bark",
+    "C": "growl",
+    "D": "hoot",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these states is not the birthplace of a US president?",
+    "A": "New Jersey",
+    "B": "Nebraska",
+    "C": "Kansas",
+    "D": "California",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these stores is not owned by Gap Inc?",
+    "A": "Gap",
+    "B": "Banana Republic",
+    "C": "Old Navy",
+    "D": "J Crew",
+    "answer": "D"
+  },
+  {
+    "question": "Which of these television programs did not feature characters introduced on 'Happy Days'?",
+    "A": "'Mork & Mindy'",
+    "B": "'Perfect Strangers'",
+    "C": "'Joanie Loves Chachi'",
+    "D": "'Laverne & Shirley'",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these television series was not set in the United States?",
+    "A": "'Picket Fences'",
+    "B": "'M*A*S*H'",
+    "C": "'Northern Exposure'",
+    "D": "'The Paper Chase'",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these toys answers questions?",
+    "A": "Magic 8 Ball",
+    "B": "Barbie",
+    "C": "Frisbee",
+    "D": "Slinky",
+    "answer": "A"
+  }
+]

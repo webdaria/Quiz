@@ -1,0 +1,3 @@
+application:
+  ws:
+    path: /ws/quiz
